@@ -1,0 +1,6 @@
+Flask==1.1.2
+fastapi
+uvicorn
+multipart
+google_cloud_storage
+dateutils
